@@ -1,5 +1,6 @@
 # widget-example
-
+NAMA : REXI PRAMBUDIAR 
+NPM : 213510058
 ## Project setup
 ```
 npm install
